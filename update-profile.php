@@ -1,8 +1,8 @@
 <?php
 /**
- * Plugin Name: Update Profile WP
+ * Plugin Name: Update Login Profile WP
  * Description: Plugin para personalizar as páginas de login, cadastro, recuperação de senha e perfis de usuários para o padrão brasileiro.
- * Version: 2.4
+ * Version: 1.2
  * Author: Ivon Filho
  * License: GPLv2 or later
  * License URI: http://www.gnu.org/licenses/gpl-2.0.html
